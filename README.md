@@ -80,7 +80,31 @@ Analyze this regulatory change and return JSON with:
 
 ->User Flow:    
 
-                            ![image alt](https://github.com/UmangSinghal0504/regulatory-change-analyzer/blob/main/Screenshot%202025-06-08%20020121.png?raw=true)
++----------------+                           
+|  Upload Files  |
++----------------+
+        |
+        v
++------------------+
+|  POST /analyze   |
++------------------+
+        |
+        v
++-----------------------+
+|  Status == 202?       |
++-----------------------+
+     |            |
+   Yes           No
+    |             |
+    v             v
++-------------+  +------------+
+| Poll /results|  | Show Error |
++-------------+  +------------+
+        |
+        v
++------------------+
+| Render Analysis  |
++------------------+
 
                                                           
 
