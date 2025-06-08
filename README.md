@@ -80,7 +80,7 @@ Analyze this regulatory change and return JSON with:
 
 ->User Flow:    
 
-                            ![image alt]()
+                            ![image alt](https://github.com/UmangSinghal0504/regulatory-change-analyzer/blob/2cf1a5d0dc06c6e5ddff421a0aeaea6b7a710a87/Screenshot%202025-06-08%20020121.png)
                                                           
 
 5.Performance Optimizations:
