@@ -80,7 +80,7 @@ Analyze this regulatory change and return JSON with:
 
 ->User Flow:    
 
-                            ![image alt](![image](https://github.com/user-attachments/assets/01f75acc-4a86-4e41-9625-adb9b9297d47)
+                            ![image alt](https://github.com/UmangSinghal0504/regulatory-change-analyzer/blob/main/Screenshot%202025-06-08%20020121.png?raw=true)
 )
                                                           
 
